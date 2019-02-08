@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainSort",
+            "request": "launch",
+            "mainClass": "sorting.mainSort",
+            "console": "externalTerminal"
+        }
+    ]
+}
